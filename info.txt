@@ -3,3 +3,7 @@
 \r     CR     macos                   CR carriage return
 
 CRLF  \r\n  (Hex: 0D 0A)
+
+https://pinetools.com/add-text-each-line
+
+https://onlinecaseconvert.com/remove-characters-from-text-online/
