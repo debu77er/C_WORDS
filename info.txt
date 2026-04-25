@@ -1,0 +1,3 @@
+\n or LF   linux   sometimes macos    LF line feed
+\r\n   CRLF   windows                 CR carriage return LF line feed
+\r     CR     macos                   CR carriage return
