@@ -3,6 +3,8 @@
 #include <stdlib.h>
 #include <ctype.h>
 
+// from this source is made superisnoun.c
+
 #define MAX_WORDS 1000
 #define MAX_WORD_LEN 50
 
