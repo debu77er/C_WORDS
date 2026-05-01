@@ -8,6 +8,10 @@ https://pinetools.com/add-text-each-line
 
 https://onlinecaseconvert.com/remove-characters-from-text-online/
 
+https://www.browserling.com/tools/text-replace
+
+
+
 
 not only noun and verb are important but also surroundings/environment/namespace/place where it happens
 
@@ -35,3 +39,7 @@ AI: multi phases analysis e.g. 1) change sentence to word types e.g. I love you.
     e.g. look for two words phrasals or some groups [adjective] [noun]     [heavy rain]               next step group those two words into something bigger
 
     I love you very much.     [noun] [verb] [noun] [adverb] [adverb]     love.much.very
+
+AI: definition of every word must be known to understand the whole sentence.     CASCADE DEFINITIONS
+
+now AI knows only which word is noun, verb, adjective, adverb etc. Is it enough to make some reasoning?
