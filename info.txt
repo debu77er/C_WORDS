@@ -52,6 +52,15 @@ AI need a special dictionary of every word or even group of words with some word
 
    but a good definition should have all possible supersets and all possible subsets and previous and next stages
 
+AI: a good definition example is wiki species list (SUPERSETS, SUBSETS) and wiki event list with time line (PREVIOUS, NEXT)
+
+
+
+
+
+
+
+
 
 
 
