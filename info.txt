@@ -20,3 +20,9 @@ time is not hierarchical time is equal for all
 AI: is this noun part of a cycle or cycles?
     is this verb part of a cycle or cycles?
     can every verb and noun be a part of some cycle?
+
+AI: find relation between two words e.g. egg and hen - is there any relation? time (stadium) relation and even a cycle
+
+    IMPORTANT - there is always relation between two words but sometimes closer or more far - proxy relation, cherry relation
+
+AI: find relation between a cat and a tree - more far is those are living organisms, so they both have DNA
