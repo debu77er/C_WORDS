@@ -29,3 +29,5 @@ AI: find relation between a cat and a tree - more far is those are living organi
     cat like climbing trees
 
 AI: find hidden meaning
+
+AI: multi phases analysis e.g. 1) change sentence to word types e.g. I love you. [noun] [verb] [noun] then next phase in on the result of first phase g(f(x))
