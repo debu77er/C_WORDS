@@ -54,8 +54,7 @@ AI need a special dictionary of every word or even group of words with some word
 
 AI: a good definition example is wiki species list (SUPERSETS, SUBSETS) and wiki event list with time line (PREVIOUS, NEXT)
 
-
-
+AI: tree structure of catalogs in wiki - but what if something may be a part of few trees? Then may be some ERROR, the same with few time possibilities of PREVIOUS and NEXT
 
 
 
