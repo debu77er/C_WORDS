@@ -26,3 +26,6 @@ AI: find relation between two words e.g. egg and hen - is there any relation? ti
     IMPORTANT - there is always relation between two words but sometimes closer or more far - proxy relation, cherry relation
 
 AI: find relation between a cat and a tree - more far is those are living organisms, so they both have DNA
+    cat like climbing trees
+
+AI: find hidden meaning
