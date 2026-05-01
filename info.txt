@@ -16,3 +16,7 @@ surrounding as superset
 problem in the middle of time series and in hierarchical structure of supersets subsets
 
 time is not hierarchical time is equal for all
+
+AI: is this noun part of a cycle or cycles?
+    is this verb part of a cycle or cycles?
+    can every verb and noun be a part of some cycle?
