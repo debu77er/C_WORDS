@@ -31,3 +31,7 @@ AI: find relation between a cat and a tree - more far is those are living organi
 AI: find hidden meaning
 
 AI: multi phases analysis e.g. 1) change sentence to word types e.g. I love you. [noun] [verb] [noun] then next phase in on the result of first phase g(f(x))
+
+    e.g. look for two words phrasals or some groups [adjective] [noun]     [heavy rain]               next step group those two words into something bigger
+
+    I love you very much.     [noun] [verb] [noun] [adverb] [adverb]     love.much.very
