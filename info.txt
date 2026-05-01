@@ -43,3 +43,13 @@ AI: multi phases analysis e.g. 1) change sentence to word types e.g. I love you.
 AI: definition of every word must be known to understand the whole sentence.     CASCADE DEFINITIONS
 
 now AI knows only which word is noun, verb, adjective, adverb etc. Is it enough to make some reasoning?
+
+AI need a special dictionary of every word or even group of words with some words changeable 
+
+   definition can be worse or better than each other - how should look like a perfect definition for AI? SUPERSET, SUBSET, PREVIOUS, NEXT
+
+
+
+
+
+
