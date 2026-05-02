@@ -56,7 +56,12 @@ AI: a good definition example is wiki species list (SUPERSETS, SUBSETS) and wiki
 
 AI: tree structure of catalogs in wiki - but what if something may be a part of few trees? Then may be some ERROR, the same with few time possibilities of PREVIOUS and NEXT
 
+AI: definition that tells other name, may also have some similar name ~ like same triangles and similar triangles (features, proportions) 
 
+what are they part of superset.   and what they have .subset    what they do()  what can be done to it() and how and where and when, and who, and with whom and what for
+
+A car, or an automobile, is a motor vehicle with wheels. Most definitions of cars state that they run primarily on roads, seat 1-8 people, have four wheels, and mainly transport people rather than cargo.
+There are over 1.6 billion cars in use worldwide as of 2025. 
 
 
 
